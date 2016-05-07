@@ -78,7 +78,11 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
 	//***************************************************************
     function onReceive(responseCode, data) {
     	Sys.println("in On Receive " + responseCode);
-        
+        		
+        var latDir = (lat.toFloat()>0) ? "N" : "S";
+       	var lngDir = (lng.toFloat()>0) ? "W" : "E";
+       	var strOutput = Lang.format("lat: $1$ $2$\nlng: $3$ $4$\nalt: $5$ ft", [lat,latDir.toString(),lng,lngDir.toString(),alt.format("%d")]);
+responseCode = -317;
         if( responseCode == 200 ) {
         	sRise = data.get("results").get("sunrise");
         	sSet  = data.get("results").get("sunset");
@@ -87,35 +91,22 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
        		sSet  = applyOffset(sSet,  DST, offset);
        		
        		//  negative Lat is south;  negative Long is East
-       		var latDir = "Tim";
-       		if(lat.toFloat()>0){
-       			latDir="N";  
-       		}
-       		else{
-       			latDir="S";
-       		}
-       		var lngDir = "Trace";
-       		if (lng.toFloat()>0){
-       			lngDir = "W"; 
-       		}
-       		else{
-       			lngDir="E";
-       		}
-           	var strOutput = Lang.format("lat: $1$ $2$\nlng: $3$ $4$\nalt: $5$ ft\nsunrise: $6$\nsunset: $7$", [lat,latDir.toString(),lng,lngDir.toString(),alt.format("%d"),sRise.toString(),sSet.toString()]);
-           	notify.invoke(strOutput);
-           	//notify.invoke(  "\nlat: " + lat + "\nlng: " + lng + "\nAltitude: "+ alt+ "\nsunrise: " + sRise.toString() + "\nsunset: " + sSet.toString() );
+
+           	var strTEMPOutput = Lang.format("\nsunrise: $1$\nsunset: $1$", [sRise.toString(),sSet.toString()]);
+           	strOutput = strOutput + strTEMPOutput;
         }
         else {
         	if (-104 == responseCode){
-            	notify.invoke( "Connection Unavailable" );
+            	strOutput = strOutput +  "\nConn Unav";
         	}
-        	if (-300 == responseCode){
-            	notify.invoke( "Request Timed Out" );
+        	else if (-300 == responseCode){
+            	strOutput = strOutput +  "\nReq Timed Out" ;
         	}
         	else{
-            	notify.invoke( "Failed to load\nError: " + responseCode.toString() );
+            	strOutput = strOutput +  "\nFailed to load\nError: " + responseCode.toString();
             }
         }
+       	notify.invoke(strOutput);
         Sys.println("END On Receive");
     }  //  end of onRecieve()
 	
