@@ -82,7 +82,7 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
         var latDir = (lat.toFloat()>0) ? "N" : "S";
        	var lngDir = (lng.toFloat()>0) ? "W" : "E";
        	var strOutput = Lang.format("lat: $1$ $2$\nlng: $3$ $4$\nalt: $5$ ft", [lat,latDir.toString(),lng,lngDir.toString(),alt.format("%d")]);
-responseCode = -317;
+
         if( responseCode == 200 ) {
         	sRise = data.get("results").get("sunrise");
         	sSet  = data.get("results").get("sunset");
