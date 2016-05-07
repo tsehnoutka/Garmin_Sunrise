@@ -87,7 +87,21 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
        		sSet  = applyOffset(sSet,  DST, offset);
        		
        		//  negative Lat is south;  negative Long is East
-           	var strOutput = Lang.format("lat: $1$\nlng: $2$\nalt: $3$ ft\nsunrise: $4$\nsunset: $5$", [lat,lng,alt.format("%d"),sRise.toString(),sSet.toString()]);
+       		var latDir = "Tim";
+       		if(lat.toFloat()>0){
+       			latDir="N";  
+       		}
+       		else{
+       			latDir="S";
+       		}
+       		var lngDir = "Trace";
+       		if (lng.toFloat()>0){
+       			lngDir = "W"; 
+       		}
+       		else{
+       			lngDir="E";
+       		}
+           	var strOutput = Lang.format("lat: $1$ $2$\nlng: $3$ $4$\nalt: $5$ ft\nsunrise: $6$\nsunset: $7$", [lat,latDir.toString(),lng,lngDir.toString(),alt.format("%d"),sRise.toString(),sSet.toString()]);
            	notify.invoke(strOutput);
            	//notify.invoke(  "\nlat: " + lat + "\nlng: " + lng + "\nAltitude: "+ alt+ "\nsunrise: " + sRise.toString() + "\nsunset: " + sSet.toString() );
         }
