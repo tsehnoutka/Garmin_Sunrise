@@ -41,8 +41,8 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
         	notify.invoke( "No Location Found" );
         }
 		else{       
-	        lat = posnInfo.position.toDegrees()[0].toString();
-	        lng = posnInfo.position.toDegrees()[1].toString();
+	        lat = posnInfo.position.toDegrees()[0];
+	        lng = posnInfo.position.toDegrees()[1];
 	        alt = posnInfo.altitude;
 	        Sys.println( "location: " + lat + "," + lng );
    		    Sys.println("DST: " + DST); 
@@ -51,8 +51,8 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
 	        Comm.makeJsonRequest(
 	            "http://api.sunrise-sunset.org/json",
 	            {
-	               "lat" => lat,
-	               "lng" => lng
+	               "lat" => lat.toString(),
+	               "lng" => lng.toString()
 	            },
 	            {
 	                "Content-Type" => Comm.REQUEST_CONTENT_TYPE_URL_ENCODED
@@ -79,9 +79,25 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
     function onReceive(responseCode, data) {
     	Sys.println("in On Receive " + responseCode);
         		
-        var latDir = (lat.toFloat()>0) ? "N" : "S";
-       	var lngDir = (lng.toFloat()>0) ? "W" : "E";
-       	var strOutput = Lang.format("lat: $1$ $2$\nlng: $3$ $4$\nalt: $5$ ft", [lat,latDir.toString(),lng,lngDir.toString(),alt.format("%d")]);
+       //  negative Lat is south;  negative Long is West
+       var latDir = "";
+       if (lat>0){
+       		latDir= "N";
+       }else
+       {
+        	latDir = "S";
+       		lat = lat * -1;
+
+       }
+       	var lngDir = "";
+       	if (lng>0){
+       		lngDir = "E";
+       	}else{
+       		lngDir = "W";
+       		lng = lng *- 1;
+       	
+       	}
+       	var strOutput = Lang.format("lat: $1$ $2$\nlng: $3$ $4$\nalt: $5$ ft", [lat.toString(),latDir.toString(),lng.toString(),lngDir.toString(),alt.format("%d")]);
 
         if( responseCode == 200 ) {
         	sRise = data.get("results").get("sunrise");
@@ -90,9 +106,8 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
       		sRise = applyOffset(sRise, DST, offset);
        		sSet  = applyOffset(sSet,  DST, offset);
        		
-       		//  negative Lat is south;  negative Long is East
-
-           	var strTEMPOutput = Lang.format("\nsunrise: $1$\nsunset: $1$", [sRise.toString(),sSet.toString()]);
+ 
+           	var strTEMPOutput = Lang.format("\nsunrise: $1$\nsunset: $2$", [sRise.toString(),sSet.toString()]);
            	strOutput = strOutput + strTEMPOutput;
         }
         else {
@@ -182,7 +197,7 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
 		}
 		Sys.println("End of calculate Offset: " + retVal + "\n");
 		
-		//  retunr new string
+		//  return new string
 		return retVal;
 	}
     
@@ -203,7 +218,7 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
     {
     	var dTime ={ "hour"=>0, "min"=>0, "sec"=>0, "AP"=> "X"};
     	var strLeng = fTime.length;
-    	var index = fTime.find(":");  //  poiunt to the first :
+    	var index = fTime.find(":");  //  point to the first :
 		dTime["hour"] = fTime.substring(0,index);
     	
     	var tempString = fTime.substring(index+1,8);
