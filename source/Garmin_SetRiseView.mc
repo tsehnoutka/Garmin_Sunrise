@@ -43,7 +43,7 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
 		else{       
 	        lat = posnInfo.position.toDegrees()[0];
 	        lng = posnInfo.position.toDegrees()[1];
-	        alt = posnInfo.altitude;
+	        alt = posnInfo.altitude*3.28084;
 	        Sys.println( "location: " + lat + "," + lng );
    		    Sys.println("DST: " + DST); 
         	Sys.println("off Set: " + offset);
