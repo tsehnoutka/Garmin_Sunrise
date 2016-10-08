@@ -1,6 +1,6 @@
 
 //*****************************************************************************
-//***	This class waits fro the GPS to be usable and tehn f=gets the locations 
+//***	This class waits fro the GPS to be usable and then gets the locations 
 //*****************************************************************************
 //!
 //! Copyright 2015 by Garmin Ltd. or its subsidiaries.
