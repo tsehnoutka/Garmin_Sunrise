@@ -21,7 +21,6 @@ class Garmin_SetRiseApp extends App.AppBase {
     function onStart() {
         mView = new Garmin_SetRiseView();
         mDelegate = new BaseInputDelegate(mView.method(:onReceive));
-        Position.enableLocationEvents(Position.LOCATION_ONE_SHOT, method(:onPosition));
     }
 
     //! onStop() is called when your application is exiting
@@ -33,7 +32,4 @@ class Garmin_SetRiseApp extends App.AppBase {
         return [ mView, mDelegate ];
     }
     
-    function onPosition(info) {
-       mDelegate.setPosition(info);
-    }
 }

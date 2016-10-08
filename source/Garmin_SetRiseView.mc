@@ -1,3 +1,7 @@
+
+//*****************************************************************************
+//***	This class waits fro the GPS to be usable and tehn f=gets the locations 
+//*****************************************************************************
 //!
 //! Copyright 2015 by Garmin Ltd. or its subsidiaries.
 //! Subject to Garmin SDK License Agreement and Wearables
@@ -9,8 +13,45 @@ using Toybox.WatchUi as Ui;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
 
-//  I editted this on the GitHub website
+//*****************************************************************************
+//***	This class aquires the GPS signal
+//*****************************************************************************
+class MyAcquirePositionDelegate extends Ui.BehaviorDelegate
+{
+    hidden var _view;
+    hidden var _callback;
 
+    function initialize(view, callback) {
+        BehaviorDelegate.initialize();
+        _view = view;
+        _callback = callback;
+
+        Position.enableLocationEvents(
+            Position.LOCATION_CONTINUOUS, self.method(:onPosition));
+    }
+
+    function onPosition(info) {
+        if (info == null && info.accuracy == null) {
+            return;
+        }
+
+        if (info.accuracy != Position.QUALITY_GOOD) {
+            return;
+        }
+
+        Position.enableLocationEvents(
+            Position.LOCATION_DISABLE, null);
+
+        _callback.invoke(info);
+    }
+
+    function onBack() {
+        Position.enableLocationEvents(
+            Position.LOCATION_DISABLE, null);
+
+        return false;
+    }
+}
 
 //*****************************************************************************
 //***	This class does the work 
@@ -34,7 +75,9 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
 	//***   When the Menu button is pressed, Make a JSON call to get 
 	//***   the Sunrise and Sunset data
 	//***************************************************************
-    function onMenu() {
+    function onMenu(info) {
+    	Ui.popView(Ui.SLIDE_IMMEDIATE);
+    	posnInfo = info;
         notify.invoke("Executing\nRequest");
         
         if ( null == posnInfo){
@@ -69,6 +112,12 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
     function initialize(handler) {
         Ui.BehaviorDelegate.initialize();
         notify = handler;
+        var view = new Ui.ProgressBar("Waiting for GPS", null);
+        var delegate = new MyAcquirePositionDelegate(view, self.method(:onMenu));
+
+        Ui.pushView(view, delegate, Ui.SLIDE_IMMEDIATE);
+
+        return true;
     }
 
 	//***************************************************************
