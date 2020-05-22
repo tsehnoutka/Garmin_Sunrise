@@ -69,7 +69,14 @@ class BaseInputDelegate extends Ui.BehaviorDelegate {
     var offset=mTime.timeZoneOffset;
      
 
-  
+  function onNextPage(){
+  	Sys.println("Next Page");
+  	return UI.onNextPage();
+  }
+  function onPreviousPage(){
+  	Sys.println("Previous Page");
+  	return UI.onPreviousPage();
+  }
  
 	//***************************************************************
 	//***   When the Menu button is pressed, Make a JSON call to get 

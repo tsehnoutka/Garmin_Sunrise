@@ -1,150 +1,176 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="25" pc="268435458" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="26" pc="268435476" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="27" pc="268435486" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="29" pc="268435496" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="34" pc="268435547" symbol="onPosition"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="35" pc="268435570" symbol="onPosition"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="38" pc="268435574" symbol="onPosition"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="39" pc="268435600" symbol="onPosition"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="42" pc="268435604" symbol="onPosition"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="45" pc="268435637" symbol="onPosition"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="49" pc="268435660" symbol="onBack"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="52" pc="268435693" symbol="onBack"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="79" pc="268435699" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="80" pc="268435727" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="81" pc="268435737" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="83" pc="268435760" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="84" pc="268435773" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="87" pc="268435799" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="88" pc="268435836" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="89" pc="268435873" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="90" pc="268435901" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="91" pc="268435946" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="92" pc="268435976" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="94" pc="268436006" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="106" pc="268436125" symbol="onMenu"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="113" pc="268436131" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="114" pc="268436153" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="115" pc="268436163" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="116" pc="268436197" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="118" pc="268436239" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="120" pc="268436271" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="129" pc="268436277" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="132" pc="268436301" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="133" pc="268436308" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="134" pc="268436325" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="137" pc="268436335" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="138" pc="268436342" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="141" pc="268436364" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="142" pc="268436371" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="143" pc="268436388" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="145" pc="268436398" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="146" pc="268436405" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="149" pc="268436427" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="151" pc="268436573" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="152" pc="268436584" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="153" pc="268436622" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="154" pc="268436660" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="155" pc="268436705" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="156" pc="268436748" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="159" pc="268436791" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="160" pc="268436869" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="163" pc="268436879" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="164" pc="268436896" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="167" pc="268436926" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="170" pc="268436939" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="173" pc="268436961" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="174" pc="268436981" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="183" pc="268437005" symbol="setPosition"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="191" pc="268437018" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="192" pc="268437039" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="193" pc="268437046" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="194" pc="268437050" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="197" pc="268437065" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="198" pc="268437090" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="199" pc="268437115" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="200" pc="268437134" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="202" pc="268437144" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="203" pc="268437163" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="205" pc="268437170" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="207" pc="268437187" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="208" pc="268437203" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="209" pc="268437210" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="213" pc="268437217" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="214" pc="268437227" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="215" pc="268437246" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="217" pc="268437268" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="218" pc="268437279" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="219" pc="268437289" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="221" pc="268437296" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="228" pc="268437338" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="229" pc="268437386" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="231" pc="268437477" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="232" pc="268437498" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="236" pc="268437528" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="237" pc="268437545" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="238" pc="268437556" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="239" pc="268437569" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="240" pc="268437586" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="242" pc="268437599" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="245" pc="268437715" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="247" pc="268437831" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="250" pc="268437861" symbol="applyOffset"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="255" pc="268437867" symbol="switchDayandNight"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="256" pc="268437891" symbol="switchDayandNight"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="257" pc="268437910" symbol="switchDayandNight"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="260" pc="268437920" symbol="switchDayandNight"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="262" pc="268437927" symbol="switchDayandNight"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="263" pc="268437951" symbol="switchDayandNight"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="268" pc="268437957" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="269" pc="268438017" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="270" pc="268438027" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="271" pc="268438045" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="273" pc="268438071" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="274" pc="268438097" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="275" pc="268438115" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="277" pc="268438141" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="279" pc="268438176" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="280" pc="268438194" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="24" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="25" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="26" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="27" pc="268435488" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="29" pc="268435498" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="33" pc="268435547" symbol="onPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="34" pc="268435551" symbol="onPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="35" pc="268435574" symbol="onPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="38" pc="268435578" symbol="onPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="39" pc="268435604" symbol="onPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="42" pc="268435608" symbol="onPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="45" pc="268435641" symbol="onPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="48" pc="268435662" symbol="onBack"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="49" pc="268435666" symbol="onBack"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="52" pc="268435699" symbol="onBack"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="72" pc="268435703" symbol="onNextPage"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="73" pc="268435707" symbol="onNextPage"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="74" pc="268435728" symbol="onNextPage"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="76" pc="268435747" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="77" pc="268435751" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="78" pc="268435772" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="85" pc="268435791" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="86" pc="268435795" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="87" pc="268435823" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="88" pc="268435833" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="90" pc="268435856" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="91" pc="268435869" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="94" pc="268435895" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="95" pc="268435932" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="96" pc="268435969" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="97" pc="268435997" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="98" pc="268436042" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="99" pc="268436072" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="101" pc="268436102" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="113" pc="268436221" symbol="onMenu"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="119" pc="268436225" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="120" pc="268436229" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="121" pc="268436251" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="122" pc="268436261" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="123" pc="268436295" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="125" pc="268436337" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="127" pc="268436369" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="135" pc="268436373" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="136" pc="268436377" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="139" pc="268436401" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="140" pc="268436408" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="141" pc="268436425" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="144" pc="268436435" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="145" pc="268436442" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="148" pc="268436464" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="149" pc="268436471" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="150" pc="268436488" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="152" pc="268436498" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="153" pc="268436505" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="156" pc="268436527" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="158" pc="268436673" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="159" pc="268436684" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="160" pc="268436722" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="161" pc="268436760" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="162" pc="268436805" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="163" pc="268436848" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="166" pc="268436891" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="167" pc="268436969" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="170" pc="268436979" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="171" pc="268436996" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="174" pc="268437026" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="177" pc="268437039" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="180" pc="268437061" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="181" pc="268437081" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="189" pc="268437103" symbol="setPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="190" pc="268437107" symbol="setPosition"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="195" pc="268437118" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="198" pc="268437122" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="199" pc="268437143" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="200" pc="268437150" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="201" pc="268437154" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="204" pc="268437169" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="205" pc="268437194" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="206" pc="268437219" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="207" pc="268437238" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="209" pc="268437248" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="210" pc="268437267" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="212" pc="268437274" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="214" pc="268437291" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="215" pc="268437307" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="216" pc="268437314" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="220" pc="268437321" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="221" pc="268437331" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="222" pc="268437350" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="224" pc="268437372" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="225" pc="268437383" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="226" pc="268437393" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="228" pc="268437400" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="235" pc="268437442" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="236" pc="268437490" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="238" pc="268437581" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="239" pc="268437602" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="243" pc="268437632" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="244" pc="268437649" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="245" pc="268437660" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="246" pc="268437673" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="247" pc="268437690" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="249" pc="268437703" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="252" pc="268437819" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="254" pc="268437935" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="257" pc="268437965" symbol="applyOffset"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="260" pc="268437969" symbol="switchDayandNight"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="262" pc="268437973" symbol="switchDayandNight"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="263" pc="268437997" symbol="switchDayandNight"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="264" pc="268438016" symbol="switchDayandNight"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="267" pc="268438026" symbol="switchDayandNight"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="269" pc="268438033" symbol="switchDayandNight"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="270" pc="268438057" symbol="switchDayandNight"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="273" pc="268438061" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="275" pc="268438065" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="276" pc="268438125" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="277" pc="268438135" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="278" pc="268438153" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="280" pc="268438179" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="281" pc="268438205" symbol="splitTime"/>
 <entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="282" pc="268438223" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="283" pc="268438247" symbol="splitTime"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="296" pc="268438253" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="301" pc="268438278" symbol="onLayout"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="310" pc="268438297" symbol="onUpdate"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="311" pc="268438333" symbol="onUpdate"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="312" pc="268438345" symbol="onUpdate"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="326" pc="268438430" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="327" pc="268438448" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="330" pc="268438461" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="333" pc="268438482" symbol="onReceive"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="17" pc="268438501" symbol="initialize"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="22" pc="268438526" symbol="onStart"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="23" pc="268438556" symbol="onStart"/>
-<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="32" pc="268438614" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268438656" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="20" pc="268438670" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="21" pc="268438767" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="22" pc="268438782" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="23" pc="268438834" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="24" pc="268438880" symbol="WatchFace"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="284" pc="268438249" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="286" pc="268438284" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="287" pc="268438302" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="289" pc="268438331" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="290" pc="268438355" symbol="splitTime"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="302" pc="268438359" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="303" pc="268438363" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="307" pc="268438386" symbol="onLayout"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="308" pc="268438390" symbol="onLayout"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="312" pc="268438404" symbol="onShow"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="316" pc="268438409" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="317" pc="268438413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="318" pc="268438449" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="319" pc="268438461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="324" pc="268438541" symbol="onHide"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="331" pc="268438546" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="333" pc="268438550" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="334" pc="268438568" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="337" pc="268438581" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseView.mc" lineNum="340" pc="268438602" symbol="onReceive"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="16" pc="268438619" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="17" pc="268438623" symbol="initialize"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="21" pc="268438646" symbol="onStart"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="22" pc="268438650" symbol="onStart"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="23" pc="268438680" symbol="onStart"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="27" pc="268438733" symbol="onStop"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="31" pc="268438738" symbol="getInitialView"/>
+<entry filename="C:\\Users\\tim\\workspace\\Garmin_SetRise\\source\\Garmin_SetRiseApp.mc" lineNum="32" pc="268438742" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="18" pc="268438782" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="20" pc="268438786" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268438949" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268438974" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268439026" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268439072" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="11" object="true" symbol="Garmin_SetRiseApp"/>
 <entry field="true" id="22" symbol="lng"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="10" object="true" symbol="Garmin_SetRiseView"/>
 <entry id="8" object="true" symbol="MyAcquirePositionDelegate"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry field="true" id="8389305" symbol="lat"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="33" symbol="_callback"/>
-<entry id="8388640" module="true" symbol="Lang"/>
-<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388639" symbol="Graphics"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="30" method="true" symbol="switchDayandNight"/>
@@ -155,14 +181,17 @@
 <entry field="true" id="19" symbol="AppName"/>
 <entry field="true" id="25" symbol="sSet"/>
 <entry id="31" method="true" symbol="splitTime"/>
-<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
 <entry field="true" id="27" symbol="offset"/>
 <entry field="true" id="14" symbol="positionView"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
 <entry field="true" id="18" symbol="LauncherIcon"/>
 <entry id="8389081" method="true" symbol="onBack"/>
 <entry field="true" id="23" symbol="alt"/>
 <entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="9" object="true" symbol="BaseInputDelegate"/>
@@ -175,11 +204,12 @@
 <entry id="32" symbol="_view"/>
 <entry id="34" method="true" symbol="onPosition"/>
 <entry id="17" module="true" symbol="Layouts"/>
-<entry id="8388642" module="true" symbol="Position"/>
+<entry id="8388642" symbol="Position"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry field="true" id="26" symbol="DST"/>
 <entry id="28" method="true" symbol="setPosition"/>
-<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389063" symbol="identifier"/>
 <entry id="16" module="true" symbol="Menus"/>
 <entry id="29" method="true" symbol="applyOffset"/>
 <entry id="15" method="true" symbol="onReceive"/>
@@ -187,34 +217,33 @@
 <entry id="13" symbol="mView"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436274" name="view" stackId="2" startPc="268436131"/>
-<entry endPc="268436274" name="delegate" stackId="3" startPc="268436131"/>
-<entry endPc="268436876" name="strTEMPOutput" stackId="6" startPc="268436584"/>
-<entry endPc="268437002" name="strOutput" stackId="5" startPc="268436277"/>
-<entry endPc="268437002" name="lngDir" stackId="4" startPc="268436277"/>
-<entry endPc="268437002" name="latDir" stackId="3" startPc="268436277"/>
-<entry endPc="268437712" name="milHours" stackId="17" startPc="268437556"/>
-<entry endPc="268437864" name="newHours" stackId="13" startPc="268437018"/>
-<entry endPc="268437864" name="totalOffset" stackId="11" startPc="268437018"/>
-<entry endPc="268437864" name="retVal" stackId="4" startPc="268437018"/>
-<entry endPc="268437864" name="HoursInSec" stackId="7" startPc="268437018"/>
-<entry endPc="268437864" name="nTimeInSec" stackId="10" startPc="268437018"/>
-<entry endPc="268437864" name="settings" stackId="16" startPc="268437018"/>
-<entry endPc="268437864" name="SecsInSec" stackId="9" startPc="268437018"/>
-<entry endPc="268437864" name="newMin" stackId="14" startPc="268437018"/>
-<entry endPc="268437864" name="newSec" stackId="15" startPc="268437018"/>
-<entry endPc="268437864" name="switchAP" stackId="5" startPc="268437018"/>
-<entry endPc="268437864" name="CorrectedTime" stackId="12" startPc="268437018"/>
-<entry endPc="268437864" name="dTime" stackId="6" startPc="268437018"/>
-<entry endPc="268437864" name="MinsInSec" stackId="8" startPc="268437018"/>
-<entry endPc="268438250" name="dTime" stackId="2" startPc="268437957"/>
-<entry endPc="268438250" name="index" stackId="4" startPc="268437957"/>
-<entry endPc="268438250" name="tempString" stackId="5" startPc="268437957"/>
-<entry endPc="268438250" name="strLeng" stackId="3" startPc="268437957"/>
-<entry endPc="268438250" name="index2" stackId="6" startPc="268437957"/>
-<entry endPc="268438897" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268438656"/>
-<entry endPc="268438897" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268438656"/>
-<entry endPc="268438897" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268438656"/>
+<entry endPc="268436372" name="view" stackId="2" startPc="268436229"/>
+<entry endPc="268436372" name="delegate" stackId="3" startPc="268436229"/>
+<entry endPc="268436976" name="strTEMPOutput" stackId="6" startPc="268436684"/>
+<entry endPc="268437102" name="strOutput" stackId="5" startPc="268436377"/>
+<entry endPc="268437102" name="lngDir" stackId="4" startPc="268436377"/>
+<entry endPc="268437102" name="latDir" stackId="3" startPc="268436377"/>
+<entry endPc="268437816" name="milHours" stackId="17" startPc="268437660"/>
+<entry endPc="268437968" name="newHours" stackId="13" startPc="268437122"/>
+<entry endPc="268437968" name="totalOffset" stackId="11" startPc="268437122"/>
+<entry endPc="268437968" name="retVal" stackId="4" startPc="268437122"/>
+<entry endPc="268437968" name="HoursInSec" stackId="7" startPc="268437122"/>
+<entry endPc="268437968" name="nTimeInSec" stackId="10" startPc="268437122"/>
+<entry endPc="268437968" name="settings" stackId="16" startPc="268437122"/>
+<entry endPc="268437968" name="SecsInSec" stackId="9" startPc="268437122"/>
+<entry endPc="268437968" name="newMin" stackId="14" startPc="268437122"/>
+<entry endPc="268437968" name="newSec" stackId="15" startPc="268437122"/>
+<entry endPc="268437968" name="switchAP" stackId="5" startPc="268437122"/>
+<entry endPc="268437968" name="CorrectedTime" stackId="12" startPc="268437122"/>
+<entry endPc="268437968" name="dTime" stackId="6" startPc="268437122"/>
+<entry endPc="268437968" name="MinsInSec" stackId="8" startPc="268437122"/>
+<entry endPc="268438358" name="dTime" stackId="2" startPc="268438065"/>
+<entry endPc="268438358" name="index" stackId="4" startPc="268438065"/>
+<entry endPc="268438358" name="tempString" stackId="5" startPc="268438065"/>
+<entry endPc="268438358" name="strLeng" stackId="3" startPc="268438065"/>
+<entry endPc="268438358" name="index2" stackId="6" startPc="268438065"/>
+<entry endPc="268439089" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268438786"/>
+<entry endPc="268439089" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268438786"/>
 </localVars>
 <annotations/>
 <functions>
@@ -228,6 +257,12 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="onBack" parent="MyAcquirePositionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="BaseInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="BaseInputDelegate">
 <documentation/>
 </functionEntry>
 <functionEntry name="onMenu" parent="BaseInputDelegate">
@@ -286,9 +321,11 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="onStart" parent="Garmin_SetRiseApp">
+<param id="state"/>
 <documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
 </functionEntry>
 <functionEntry name="onStop" parent="Garmin_SetRiseApp">
+<param id="state"/>
 <documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
 </functionEntry>
 <functionEntry name="getInitialView" parent="Garmin_SetRiseApp">
